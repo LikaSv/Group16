@@ -1,3 +1,5 @@
+print("Hello")
+
 # import my_module
 # print(my_module.avg(3, 6))
 
